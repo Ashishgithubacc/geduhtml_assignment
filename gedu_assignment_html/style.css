@@ -1,0 +1,23 @@
+.apply_btn{
+  padding: 21px 35px 22px 35px;
+  background-color: #B91843;
+  font-size: 20px;
+}
+
+.banner{
+  background-image: url('./images/Background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aboutus_banner{
+  background-image: url('./images/abooutus.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay{
+  background-image: url('./images/backgroundoverlay.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
